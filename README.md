@@ -16,7 +16,7 @@ The code here is intended to be used along with the corresponding 'Library app',
 
 We've put together [a corresponding screencast](http://www.youtube.com/XXXXXXXXXXXXXXXXXXXXX), which you can follow to find out how to use the code and other resources in this app. We recommend you review this screencast before beginning.
 
-You'll also need a Google Maps API key, available from [Google's developer st=ite](https://developers.google.com/maps/documentation/javascript/tutorial#api_key). This API key should be entered into the file 'You-Are-Here-Main-Logic.js' inside the Features directory. The API key should be pasted in in place of 'YOURAPIKEY' on line 6 of this file before you upload it to Spot Specific
+You'll also need a Google Maps API key, available from [Google's developer site](https://developers.google.com/maps/documentation/javascript/tutorial#api_key). This API key should be entered into the file 'You-Are-Here-Main-Logic.js' inside the Features directory. The API key should be pasted in in place of 'YOURAPIKEY' on line 6 of this file before you upload it to Spot Specific
 
 
 Where can I find out more?
